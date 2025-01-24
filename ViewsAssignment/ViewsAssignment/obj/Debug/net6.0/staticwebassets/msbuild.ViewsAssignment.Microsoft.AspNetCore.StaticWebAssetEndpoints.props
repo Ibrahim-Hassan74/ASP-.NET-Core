@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ViewsAssignment/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1576"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 24 Jan 2025 15:38:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ViewsAssignment/style.tnf6co2b5b.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tnf6co2b5b"},{"Name":"integrity","Value":"sha256-N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs="},{"Name":"label","Value":"_content/ViewsAssignment/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1576"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 24 Jan 2025 15:38:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

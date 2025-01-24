@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "hdb5FYuWDUwYpMMSofvFaQA0qv+XgK6axN3LABePReA=",
+  "Source": "ViewsAssignment",
+  "BasePath": "_content/ViewsAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewsAssignment\\wwwroot",
+      "Source": "ViewsAssignment",
+      "ContentRoot": "E:\\aspnetcore\\code\\ViewsAssignment\\ViewsAssignment\\wwwroot\\",
+      "BasePath": "_content/ViewsAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\aspnetcore\\code\\ViewsAssignment\\ViewsAssignment\\wwwroot\\style.css",
+      "SourceId": "ViewsAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\aspnetcore\\code\\ViewsAssignment\\ViewsAssignment\\wwwroot\\",
+      "BasePath": "_content/ViewsAssignment",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tnf6co2b5b",
+      "Integrity": "N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "style.css",
+      "AssetFile": "E:\\aspnetcore\\code\\ViewsAssignment\\ViewsAssignment\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 15:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs="
+        }
+      ]
+    },
+    {
+      "Route": "style.tnf6co2b5b.css",
+      "AssetFile": "E:\\aspnetcore\\code\\ViewsAssignment\\ViewsAssignment\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 15:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tnf6co2b5b"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs="
+        }
+      ]
+    }
+  ]
+}
