@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hdb5FYuWDUwYpMMSofvFaQA0qv+XgK6axN3LABePReA=",
+  "Hash": "GWl8DSZjxYtKImojmq6yW72DrMxY+vwHk2pelGIj52A=",
   "Source": "ViewsAssignment",
   "BasePath": "_content/ViewsAssignment",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "ViewsAssignment\\wwwroot",
       "Source": "ViewsAssignment",
-      "ContentRoot": "E:\\aspnetcore\\code\\ViewsAssignment\\ViewsAssignment\\wwwroot\\",
+      "ContentRoot": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\wwwroot\\",
       "BasePath": "_content/ViewsAssignment",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\aspnetcore\\code\\ViewsAssignment\\ViewsAssignment\\wwwroot\\style.css",
+      "Identity": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\wwwroot\\StyleSheet.css",
       "SourceId": "ViewsAssignment",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\aspnetcore\\code\\ViewsAssignment\\ViewsAssignment\\wwwroot\\",
+      "ContentRoot": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\wwwroot\\",
       "BasePath": "_content/ViewsAssignment",
-      "RelativePath": "style#[.{fingerprint}]?.css",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,17 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tnf6co2b5b",
-      "Integrity": "N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs=",
+      "Fingerprint": "5fkyaslua0",
+      "Integrity": "H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\style.css"
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
     }
   ],
   "Endpoints": [
     {
-      "Route": "style.css",
-      "AssetFile": "E:\\aspnetcore\\code\\ViewsAssignment\\ViewsAssignment\\wwwroot\\style.css",
+      "Route": "StyleSheet.5fkyaslua0.css",
+      "AssetFile": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -50,7 +50,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1576"
+          "Value": "1567"
         },
         {
           "Name": "Content-Type",
@@ -58,48 +58,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs=\""
+          "Value": "\"H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 15:38:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs="
-        }
-      ]
-    },
-    {
-      "Route": "style.tnf6co2b5b.css",
-      "AssetFile": "E:\\aspnetcore\\code\\ViewsAssignment\\ViewsAssignment\\wwwroot\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1576"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 15:38:44 GMT"
+          "Value": "Sat, 25 Jan 2025 18:09:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -109,15 +72,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tnf6co2b5b"
+          "Value": "5fkyaslua0"
         },
         {
           "Name": "label",
-          "Value": "style.css"
+          "Value": "StyleSheet.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-N5/sHwP50fPLi0wP3iX8qOLS/bdwyk0OyZJTwb68uNs="
+          "Value": "sha256-H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 18:09:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ="
         }
       ]
     }

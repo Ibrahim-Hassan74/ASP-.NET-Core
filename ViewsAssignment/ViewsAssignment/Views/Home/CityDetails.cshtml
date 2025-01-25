@@ -1,22 +1,12 @@
 ﻿@model CityWeather
+@{
+	ViewData["Title"] = "City Details";
+}
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>@Model.CityName Weather</title>
-	<link rel="stylesheet" href="~/style.css">
-</head>
-<body>
-	<div class="city-contianer">
-		<h1 class="weather-header">Weather</h1>
-		<div class="city-card city">
-			<h2>@Model.CityName</h2>
-			<p class="time">@Model.DateAndTime?.ToString("hh:mm tt")</p>
-			<p class="temperature">@Model.TemperatureFahrenheit °F</p>
-			<a href="/" class="details-link">Back to weather page home</a>
-		</div>
-	</div>
-</body>
-</html>
+<h1 class="weather-header">Weather</h1>
+<div class="city-card city">
+	<h2>@Model.CityName</h2>
+	<p class="time">@Model.DateAndTime?.ToString("hh:mm tt")</p>
+	<p class="temperature">@Model.TemperatureFahrenheit °F</p>
+	<a href="/" class="details-link">Back to weather page home</a>
+</div>

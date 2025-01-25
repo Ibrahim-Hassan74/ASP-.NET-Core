@@ -15,7 +15,7 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
     width: 1200px;
-    text-align: center;
+
 }
 
 .container {
@@ -68,9 +68,9 @@ h2 {
     font-size: 14px;
 }
 
-.details-link:hover {
-    background-color: #0056b3;
-}
+    .details-link:hover {
+        background-color: #0056b3;
+    }
 
 .city, .weather-header {
     width: 500px;

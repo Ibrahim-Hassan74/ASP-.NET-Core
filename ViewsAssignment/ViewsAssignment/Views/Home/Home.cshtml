@@ -1,25 +1,18 @@
-﻿@model List<CityWeather> 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather</title>
-    <link rel="stylesheet" href="~/style.css">
-</head>
-<body>
-    <div class="weather-container">
-        <h1>Weather</h1>
-        <div class="container" >
-            @foreach(var city in Model) {
-                <div class="city-card">
-                    <h2>@city.CityName</h2>
-                    <p class="time">@city.DateAndTime?.ToString("hh:mm tt")</p>
-                    <p class="temperature">@city.TemperatureFahrenheit °F</p>
-                    <a href="weather/@city.CityUniqueCode" class="details-link">Details</a>
-                </div>
-            }
-        </div>
-    </div>
-</body>
-</html>
+﻿@model IEnumerable<CityWeather>
+@{
+	ViewData["Title"] = "Cities";
+}
+<div class="weather-container"> 
+	<h1>Weather</h1>
+	<div class="container">
+		@foreach (var city in Model)
+		{
+			<div class="city-card">
+				<h2>@city.CityName</h2>
+				<p class="time">@city.DateAndTime?.ToString("hh:mm tt")</p>
+				<p class="temperature">@city.TemperatureFahrenheit °F</p>
+				<a href="weather/@city.CityUniqueCode" class="details-link">Details</a>
+			</div>
+		}
+	</div>
+</div> 

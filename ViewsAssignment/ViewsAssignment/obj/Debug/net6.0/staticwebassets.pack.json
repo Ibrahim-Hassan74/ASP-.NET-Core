@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "E:\\aspnetcore\\code\\ViewsAssignment\\ViewsAssignment\\wwwroot\\style.css",
-      "PackagePath": "staticwebassets\\style.css"
+      "Id": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ViewsAssignment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

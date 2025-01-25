@@ -1,0 +1,1 @@
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\wwwroot\style.css
