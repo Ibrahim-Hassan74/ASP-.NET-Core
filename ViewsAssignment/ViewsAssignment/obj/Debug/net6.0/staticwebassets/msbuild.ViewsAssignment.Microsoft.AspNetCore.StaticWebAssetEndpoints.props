@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/ViewsAssignment/StyleSheet.5fkyaslua0.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StyleSheet.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5fkyaslua0"},{"Name":"integrity","Value":"sha256-H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ="},{"Name":"label","Value":"_content/ViewsAssignment/StyleSheet.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1567"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Jan 2025 18:09:15 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ViewsAssignment/StyleSheet.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StyleSheet.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1567"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 25 Jan 2025 18:09:15 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pCPb9JQxt8itHvaF94MvxFvMA\u002B3ZsuDEtcTYHf4B/7c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1585"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pCPb9JQxt8itHvaF94MvxFvMA\u002B3ZsuDEtcTYHf4B/7c=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Jan 2025 22:44:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ViewsAssignment/StyleSheet.k6v2iomb2j.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StyleSheet.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k6v2iomb2j"},{"Name":"integrity","Value":"sha256-pCPb9JQxt8itHvaF94MvxFvMA\u002B3ZsuDEtcTYHf4B/7c="},{"Name":"label","Value":"_content/ViewsAssignment/StyleSheet.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1585"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pCPb9JQxt8itHvaF94MvxFvMA\u002B3ZsuDEtcTYHf4B/7c=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Jan 2025 22:44:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

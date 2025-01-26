@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GWl8DSZjxYtKImojmq6yW72DrMxY+vwHk2pelGIj52A=",
+  "Hash": "03/c2tzSQQatlkwoU3pdv2Yf9ieoMgDRJB4l0R7vYSw=",
   "Source": "ViewsAssignment",
   "BasePath": "_content/ViewsAssignment",
   "Mode": "Default",
@@ -31,59 +31,14 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5fkyaslua0",
-      "Integrity": "H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ=",
+      "Fingerprint": "k6v2iomb2j",
+      "Integrity": "pCPb9JQxt8itHvaF94MvxFvMA+3ZsuDEtcTYHf4B/7c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\StyleSheet.css"
     }
   ],
   "Endpoints": [
-    {
-      "Route": "StyleSheet.5fkyaslua0.css",
-      "AssetFile": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\wwwroot\\StyleSheet.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1567"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 18:09:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5fkyaslua0"
-        },
-        {
-          "Name": "label",
-          "Value": "StyleSheet.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ="
-        }
-      ]
-    },
     {
       "Route": "StyleSheet.css",
       "AssetFile": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\wwwroot\\StyleSheet.css",
@@ -95,7 +50,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1567"
+          "Value": "1585"
         },
         {
           "Name": "Content-Type",
@@ -103,11 +58,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ=\""
+          "Value": "\"pCPb9JQxt8itHvaF94MvxFvMA+3ZsuDEtcTYHf4B/7c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 18:09:15 GMT"
+          "Value": "Sun, 26 Jan 2025 22:44:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -117,7 +72,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H1p7DpNRcpytX0MnogJ1JIWqS/36YOSOICnZut/qEuQ="
+          "Value": "sha256-pCPb9JQxt8itHvaF94MvxFvMA+3ZsuDEtcTYHf4B/7c="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.k6v2iomb2j.css",
+      "AssetFile": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pCPb9JQxt8itHvaF94MvxFvMA+3ZsuDEtcTYHf4B/7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 22:44:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k6v2iomb2j"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pCPb9JQxt8itHvaF94MvxFvMA+3ZsuDEtcTYHf4B/7c="
         }
       ]
     }
