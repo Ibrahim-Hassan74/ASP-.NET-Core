@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\viewsassignment\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|solutionrelative:viewsassignment\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\viewsassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|solutionrelative:viewsassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0364B8C5-DD1B-416B-9688-A42BAF491BD4}|WeatherServiceLibrary\\WeatherServiceLibrary.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\weatherservicelibrary\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0364B8C5-DD1B-416B-9688-A42BAF491BD4}|WeatherServiceLibrary\\WeatherServiceLibrary.csproj|solutionrelative:weatherservicelibrary\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\viewsassignment\\views\\home\\citydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|solutionrelative:viewsassignment\\views\\home\\citydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\viewsassignment\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|solutionrelative:viewsassignment\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{03239CEE-1C8B-40CE-A8B1-167DB68ECE5D}|WeatherService\\WeatherService.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\weatherservice\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03239CEE-1C8B-40CE-A8B1-167DB68ECE5D}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\viewsassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|solutionrelative:viewsassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\viewsassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|solutionrelative:viewsassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\viewsassignment\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|solutionrelative:viewsassignment\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\viewsassignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|solutionrelative:viewsassignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8919E3E6-C6DE-4560-9DEB-44911F449767}|Models\\Models.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8919E3E6-C6DE-4560-9DEB-44911F449767}|Models\\Models.csproj|solutionrelative:models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\viewsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|solutionrelative:viewsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\viewsassignment\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|solutionrelative:viewsassignment\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|e:\\aspnetcore\\assignment\\asp-.net-core\\viewsassignment\\viewsassignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03C65CC0-D53F-4C24-8AF3-EEA5272758CF}|ViewsAssignment\\ViewsAssignment.csproj|solutionrelative:viewsassignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,81 +42,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 462,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StyleSheet.css",
-              "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\wwwroot\\StyleSheet.css",
-              "RelativeDocumentMoniker": "ViewsAssignment\\wwwroot\\StyleSheet.css",
-              "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\wwwroot\\StyleSheet.css",
-              "RelativeToolTip": "ViewsAssignment\\wwwroot\\StyleSheet.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-25T18:05:11.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ViewsAssignment\\Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ViewsAssignment\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T17:45:46.293Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ViewsAssignment\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ViewsAssignment\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-25T17:44:39.118Z",
+              "Title": "CityWeather.cs",
+              "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\Models\\CityWeather.cs",
+              "RelativeDocumentMoniker": "Models\\CityWeather.cs",
+              "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\Models\\CityWeather.cs",
+              "RelativeToolTip": "Models\\CityWeather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:09:31.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ViewsAssignment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ViewsAssignment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T19:02:21.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\WeatherService\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherService\\IWeatherService.cs",
+              "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\WeatherService\\IWeatherService.cs",
+              "RelativeToolTip": "WeatherService\\IWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:59:35.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CityDetails.cshtml",
               "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Views\\Home\\CityDetails.cshtml",
               "RelativeDocumentMoniker": "ViewsAssignment\\Views\\Home\\CityDetails.cshtml",
               "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Views\\Home\\CityDetails.cshtml",
               "RelativeToolTip": "ViewsAssignment\\Views\\Home\\CityDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-24T15:22:43.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Home.cshtml",
               "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Views\\Home\\Home.cshtml",
               "RelativeDocumentMoniker": "ViewsAssignment\\Views\\Home\\Home.cshtml",
               "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Views\\Home\\Home.cshtml",
               "RelativeToolTip": "ViewsAssignment\\Views\\Home\\Home.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-24T15:01:52.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ViewsAssignment\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ViewsAssignment\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T15:01:06.155Z",
               "EditorCaption": ""
@@ -124,27 +125,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CityWeather.cs",
-              "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Models\\CityWeather.cs",
-              "RelativeDocumentMoniker": "ViewsAssignment\\Models\\CityWeather.cs",
-              "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Models\\CityWeather.cs",
-              "RelativeToolTip": "ViewsAssignment\\Models\\CityWeather.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T14:57:59.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Program.cs",
               "RelativeDocumentMoniker": "ViewsAssignment\\Program.cs",
               "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\ViewsAssignment\\Program.cs",
               "RelativeToolTip": "ViewsAssignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T14:56:46.299Z"
+              "WhenOpened": "2025-01-24T14:56:46.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\WeatherServiceLibrary\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherServiceLibrary\\WeatherService.cs",
+              "ToolTip": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\WeatherServiceLibrary\\WeatherService.cs",
+              "RelativeToolTip": "WeatherServiceLibrary\\WeatherService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:12:52.697Z",
+              "EditorCaption": ""
             }
           ]
         },

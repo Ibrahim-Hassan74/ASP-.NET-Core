@@ -63,3 +63,11 @@ E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\obj\Debug
 E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\obj\Debug\net6.0\ViewsAssignment.pdb
 E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\obj\Debug\net6.0\ViewsAssignment.genruntimeconfig.cache
 E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\obj\Debug\net6.0\ref\ViewsAssignment.dll
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\obj\Debug\net6.0\ViewsAssignment.csproj.AssemblyReference.cache
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\bin\Debug\net6.0\WeatherService.dll
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\bin\Debug\net6.0\WeatherService.pdb
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\obj\Debug\net6.0\ViewsAss.5517120F.Up2Date
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\bin\Debug\net6.0\Models.dll
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\bin\Debug\net6.0\Models.pdb
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\bin\Debug\net6.0\WeatherServiceLibrary.dll
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\ViewsAssignment\bin\Debug\net6.0\WeatherServiceLibrary.pdb

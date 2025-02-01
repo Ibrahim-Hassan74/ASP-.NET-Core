@@ -1,11 +1,69 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
+      "WeatherService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WeatherService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeatherService.dll": {}
+        }
+      },
+      "WeatherServiceLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Models": "1.0.0",
+          "WeatherService": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WeatherServiceLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeatherServiceLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
+    },
+    "WeatherService/1.0.0": {
+      "type": "project",
+      "path": "../WeatherService/WeatherService.csproj",
+      "msbuildProject": "../WeatherService/WeatherService.csproj"
+    },
+    "WeatherServiceLibrary/1.0.0": {
+      "type": "project",
+      "path": "../WeatherServiceLibrary/WeatherServiceLibrary.csproj",
+      "msbuildProject": "../WeatherServiceLibrary/WeatherServiceLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Models >= 1.0.0",
+      "WeatherService >= 1.0.0",
+      "WeatherServiceLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ibrah\\.nuget\\packages\\": {},
@@ -38,7 +96,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\Models\\Models.csproj": {
+              "projectPath": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\Models\\Models.csproj"
+            },
+            "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\WeatherServiceLibrary\\WeatherServiceLibrary.csproj": {
+              "projectPath": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\WeatherServiceLibrary\\WeatherServiceLibrary.csproj"
+            },
+            "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\WeatherService\\WeatherService.csproj": {
+              "projectPath": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ViewsAssignment\\WeatherService\\WeatherService.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

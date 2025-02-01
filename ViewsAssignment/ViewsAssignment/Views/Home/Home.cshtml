@@ -1,12 +1,7 @@
 ﻿@model IEnumerable<CityWeather>
 @{
 	ViewData["Title"] = "Cities";
-	string? getColor(int? temp)
-	{
-		if (temp < 44) return "blue";
-		if (temp <= 74) return "yellow";
-		return "orange";
-	}
+	int id = 0;
 }
 <div class="weather-container"> 
 	<h1>Weather</h1>
@@ -14,7 +9,7 @@
 		@foreach (var city in Model)
 		{
 
-			<div class="city-card" style="background-color: @getColor(city.TemperatureFahrenheit);">
+			<div class="city-card" style="background-color: @ViewBag.Colors[id++];">
 				<h2>@city.CityName</h2>
 				<p class="time">@city.DateAndTime?.ToString("hh:mm tt")</p>
 				<p class="temperature">@city.TemperatureFahrenheit °F</p>

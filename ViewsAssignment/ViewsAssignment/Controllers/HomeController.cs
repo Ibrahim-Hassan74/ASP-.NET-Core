@@ -1,34 +1,23 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ViewsAssignment.Models;
+using WeatherService;
+
 
 namespace ViewsAssignment.Controllers
 {
     public class HomeController : Controller
     {
-        private List<CityWeather> cityWeatherList;
-        public HomeController()
+        private readonly IWeatherService _weatherService;
+
+        public HomeController(IWeatherService weatherService)
         {
-            cityWeatherList = new List<CityWeather>()
-            {
-                new CityWeather()
-                {
-                    CityUniqueCode = "LDN", CityName = "London", DateAndTime = Convert.ToDateTime("2030-01-01 8:00"),  TemperatureFahrenheit = 33
-                },
-                new CityWeather()
-                {
-                    CityUniqueCode = "NYC", CityName = "London", DateAndTime = Convert.ToDateTime("2030-01-01 3:00"),  TemperatureFahrenheit = 60
-                },
-                new CityWeather()
-                {
-                    CityUniqueCode = "PAR", CityName = "Paris", DateAndTime = Convert.ToDateTime("2030-01-01 9:00"),  TemperatureFahrenheit = 82
-                }
-            };
+            _weatherService = weatherService;
         }
 
         [Route("/")]
         public IActionResult Home()
         {
-            return View(cityWeatherList);
+            ViewBag.Colors = _weatherService.GetColors();
+            return View(_weatherService.GetWeatherDetails());
         }
 
         [Route("weather/{cityCode}")]
@@ -36,9 +25,10 @@ namespace ViewsAssignment.Controllers
         {
             if (cityCode is null)
                 return NotFound("City code must be include");
-            var city = cityWeatherList.FirstOrDefault(x => x.CityUniqueCode == cityCode);
+            var city = _weatherService.GetWeatherByCityCode(cityCode);
             if (city == null) 
                 return NotFound($"City with code {cityCode} Not Found");
+            ViewBag.color = _weatherService.GetColor(city.TemperatureFahrenheit);
             return View(city);
         }
     }

@@ -7,14 +7,65 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ViewsAssignment/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0",
+          "WeatherService": "1.0.0",
+          "WeatherServiceLibrary": "1.0.0"
+        },
         "runtime": {
           "ViewsAssignment.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "runtime": {
+          "Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WeatherService/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "runtime": {
+          "WeatherService.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WeatherServiceLibrary/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0",
+          "WeatherService": "1.0.0"
+        },
+        "runtime": {
+          "WeatherServiceLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "ViewsAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherServiceLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

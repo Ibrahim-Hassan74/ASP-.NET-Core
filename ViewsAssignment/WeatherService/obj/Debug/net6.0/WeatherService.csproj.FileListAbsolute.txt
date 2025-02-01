@@ -1,0 +1,16 @@
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\bin\Debug\net6.0\WeatherService.deps.json
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\bin\Debug\net6.0\WeatherService.dll
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\bin\Debug\net6.0\WeatherService.pdb
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\obj\Debug\net6.0\WeatherService.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\obj\Debug\net6.0\WeatherService.AssemblyInfoInputs.cache
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\obj\Debug\net6.0\WeatherService.AssemblyInfo.cs
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\obj\Debug\net6.0\WeatherService.csproj.CoreCompileInputs.cache
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\obj\Debug\net6.0\WeatherService.sourcelink.json
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\obj\Debug\net6.0\WeatherService.dll
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\obj\Debug\net6.0\refint\WeatherService.dll
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\obj\Debug\net6.0\WeatherService.pdb
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\obj\Debug\net6.0\ref\WeatherService.dll
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\bin\Debug\net6.0\Models.dll
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\bin\Debug\net6.0\Models.pdb
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\obj\Debug\net6.0\WeatherService.csproj.AssemblyReference.cache
+E:\aspnetcore\Assignment\ASP-.NET-Core\ViewsAssignment\WeatherService\obj\Debug\net6.0\WeatherS.CB217A36.Up2Date
