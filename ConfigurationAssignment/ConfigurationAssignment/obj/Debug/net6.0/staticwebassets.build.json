@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "7GxjCHhwkDynp+U5LvDrr2Ix9ur8c1dfwZtjaZai9lE=",
+  "Source": "ConfigurationAssignment",
+  "BasePath": "_content/ConfigurationAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ConfigurationAssignment\\wwwroot",
+      "Source": "ConfigurationAssignment",
+      "ContentRoot": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ConfigurationAssignment\\ConfigurationAssignment\\wwwroot\\",
+      "BasePath": "_content/ConfigurationAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ConfigurationAssignment\\ConfigurationAssignment\\wwwroot\\StyleSheet.css",
+      "SourceId": "ConfigurationAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ConfigurationAssignment\\ConfigurationAssignment\\wwwroot\\",
+      "BasePath": "_content/ConfigurationAssignment",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gnsd5elkzt",
+      "Integrity": "TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ConfigurationAssignment\\ConfigurationAssignment\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 23:02:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.gnsd5elkzt.css",
+      "AssetFile": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ConfigurationAssignment\\ConfigurationAssignment\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 23:02:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gnsd5elkzt"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk="
+        }
+      ]
+    }
+  ]
+}

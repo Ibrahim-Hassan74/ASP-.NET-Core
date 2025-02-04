@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\aspnetcore\\Assignment\\ASP-.NET-Core\\ConfigurationAssignment\\ConfigurationAssignment\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ConfigurationAssignment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ConfigurationAssignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ConfigurationAssignment.props",
+      "PackagePath": "build\\ConfigurationAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ConfigurationAssignment.props",
+      "PackagePath": "buildMultiTargeting\\ConfigurationAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ConfigurationAssignment.props",
+      "PackagePath": "buildTransitive\\ConfigurationAssignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

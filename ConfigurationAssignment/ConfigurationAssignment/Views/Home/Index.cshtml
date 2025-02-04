@@ -1,0 +1,28 @@
+﻿@using ConfigurationAssignment.Options
+@model SocialMediaLinksOptions
+
+<html>
+<head>
+	<title>Social Media</title>
+	<link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+	<div class="container">
+		<h1>Social Media Links</h1>
+		<div class="flex">
+			<div>
+				<a href="@Model.Facebook" target="_blank">Facebook</a>
+			</div>
+			<div>
+				<a href="@Model.Twitter" target="_blank">Twitter</a>
+			</div>
+			<div>
+				<a href="@Model.Instagram" target="_blank">Instagram</a>
+			</div>
+			<div>
+				<a href="@Model.Youtube" target="_blank">Youtube</a>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
